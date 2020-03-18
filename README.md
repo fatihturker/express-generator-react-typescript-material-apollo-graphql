@@ -88,12 +88,12 @@ $ npm start
 
 
 ### Installation
-**express-generator-ntagm** requires [Node.js] v10+ to run.
+**express-generator-rtmag** requires [Node.js] v10+ to run.
 
 Install the dependencies and devDependencies and start the application.
 
 ```sh
-$ cd express-generator-node-typescript-apollo-graphql-mongo
+$ cd express-generator-react-typescript-material-apollo-graphql
 $ npm install
 $ npm start
 ```
@@ -133,4 +133,4 @@ MIT
 [GraphQL Apollo Client]: <https://www.apollographql.com/docs/react/>
 [Material UI]: <https://material-ui.com/>
 [Global Store Manager]: <https://www.npmjs.com/package/global-store-manager>
-[Express Generator CLI for Graphql Backend]: <https://www.npmjs.com/package/express-generator-node-typescript-apollo-graphql-mongo-cli>
+[Express Generator CLI for Graphql Backend]: <https://www.npmjs.com/package/express-generator-react-typescript-material-apollo-graphql-cli>
